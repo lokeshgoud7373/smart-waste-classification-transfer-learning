@@ -6,6 +6,10 @@ The goal is to support **smart recycling and automated waste segregation** by us
 
 ---
 
+live server 
+https://eenulg-h1y5zmyl3-arcadawebapps9.vercel.app
+
+
 ## 📌 Project Overview
 
 Improper waste segregation is a major environmental challenge. Separating waste manually is time-consuming and can lead to incorrect recycling.
