@@ -6,6 +6,9 @@ The goal is to support **smart recycling and automated waste segregation** by us
 
 ---
 
+live server
+https://uaqnuf-aghpauffd-arcadawebapps3.vercel.app
+
 
 
 ## 📌 Project Overview
